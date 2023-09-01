@@ -8,9 +8,10 @@ namespace CSharpBasics
 {
     internal class Working_with_Strings
     {
-        public void WorkingWithStrings()
+        public static void WorkingWithStrings()
         {
             Console.WriteLine("Hello\nNew Hello"); // The / sign is used to create a paragraph
+            Console.WriteLine("Hello\"Sammy");
 
             Console.ReadLine();
         }

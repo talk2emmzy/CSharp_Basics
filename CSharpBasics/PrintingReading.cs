@@ -8,7 +8,7 @@ namespace CSharpBasics
 {
     internal class PrintingReading
     {
-        static void Main(string[] args)
+        static void PrintandReadStatement()
         {
             //this are constatnce used to print and read data 
             Console.WriteLine("Hello My Name is Emmanuel");
