@@ -10,7 +10,7 @@ namespace CSharpBasics
     {
         public void WorkingWithStrings()
         {
-            Console.WriteLine("Hello/New Hello"); // The / sign is used to create a paragraph
+            Console.WriteLine("Hello\nNew Hello"); // The / sign is used to create a paragraph
 
             Console.ReadLine();
         }
