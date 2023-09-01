@@ -15,9 +15,9 @@ namespace CSharpBasics
             int year_of_birth = 2005; // this is used for numbers with no decimal
             char alphabet = 'A'; // this is used for single charachters
             double longitude = 6.00999; // this is best for storing decimal number
-            decimal amount = 1000; //this is used for money value
+            decimal amount = 15000; //this is used for money value
             bool is_deactive = false; //this is used to check is something is true or false
-            bool is_active = true; //this is used to check is something is true or false
+            bool is_active = true; //this is used to store a true or false information
         }
     }
 }
